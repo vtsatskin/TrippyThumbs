@@ -72,3 +72,10 @@ Inspiration
 
 - [Caption Hover Effects](http://tympanus.net/Tutorials/CaptionHoverEffects/index3.html)
 - [Shape Hover Effect with SVG](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index2.html)
+
+Existing Research
+-----------------
+
+- [How People Recognize Previously Seen WWW Pages from Titles, URLs and Thumbnails][recognize] by Kaasten, S., Greenberg, S. and Edwards, C. (2002)
+
+[recognize]:http://grouplab.cpsc.ucalgary.ca/Publications/2002-ThumbnailStudy.BHCI
