@@ -67,3 +67,8 @@ Inspiration
 
 - Some website such as Facebook, YouTube, Google, Twitter, will show logos.
 - Others will show screenshot
+
+### Interactions/Effects ###
+
+- [Caption Hover Effects](http://tympanus.net/Tutorials/CaptionHoverEffects/index3.html)
+- [Shape Hover Effect with SVG](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index2.html)
