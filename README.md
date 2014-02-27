@@ -60,3 +60,10 @@ Inspiration
 - Displayed when no band image availible
 
 ![](images/inspiration/google.music.many.png)
+
+### Opera Speed Dial ###
+
+![](images/inspiration/opera.speed.dial.png)
+
+- Some website such as Facebook, YouTube, Google, Twitter, will show logos.
+- Others will show screenshot
