@@ -3,6 +3,11 @@ TrippyThumbs
 
 An experimental approach to website thumbnails.
 
+
+Mockups
+-------
+
+
 Sample websites
 ---------------
 
@@ -37,3 +42,21 @@ These are the current issues with the existing thumbnails
 - Redirect got captured as a page
 - Duplicates: https and http version
 - "Authorization Required" on sites with http auth such as [Mana](http://mana.mozilla.org)
+
+Inspiration
+-----------
+
+### Google Play Music ###
+
+![](images/inspiration/google.music.2.png)
+![](images/inspiration/google.music.2.hover.png)
+
+- Relevant band image shown
+- Hover state is interactable
+
+![](images/inspiration/google.music.png)
+
+- Album art as background with blur
+- Displayed when no band image availible
+
+![](images/inspiration/google.music.many.png)
