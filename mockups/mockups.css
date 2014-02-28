@@ -14,6 +14,7 @@ body {
 	border: 1px solid #e0e1e3;
 	display: inline-block;
 	margin-right: 10px;
+	cursor: pointer;
 }
 
 	.thumb1-title {
@@ -38,6 +39,10 @@ body {
 		max-width: 134px;
 		max-height: 104px;
 	}
+
+.thumb1:hover, .thumb1:hover .thumb1-title {
+	border-color: #BBB;
+}
 
 .flower {
 	fill: #525c66;
