@@ -31,6 +31,7 @@ These are certain aspects we can use from websites to generate identifiablity cu
 - Website dominant colours
 - Title
 - URL
+- Favicon
 
 Current Behaviour and Issues
 ----------------------------
