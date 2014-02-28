@@ -44,6 +44,7 @@ These are the current issues with the existing thumbnails
 
 - Redirect got captured as a page
 - Duplicates: https and http version
+	- www. vs none.
 - "Authorization Required" on sites with http auth such as [Mana](http://mana.mozilla.org)
 
 Current Code

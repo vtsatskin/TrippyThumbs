@@ -58,3 +58,79 @@ body {
 	.wordpress img path {
 		fill: white;
 	}
+
+.thumb2 {
+	box-sizing: padding-box;
+	width: 180px;
+	height: calc(150px + 21px);
+	padding: 23px;
+	text-align: center;
+	background: white;
+	position: relative;
+	border: 1px solid #e0e1e3;
+	display: inline-block;
+	margin-right: 10px;
+	cursor: pointer;
+
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+	.thumb2-title {
+		box-sizing: padding-box;
+		height: 21px;
+		text-align: left;
+		padding: 0 5px;
+
+		background: #eceded;
+		color: #525c66;
+		border-top: 1px solid #e0e1e3;
+
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		font-size: 13px;
+		font-family: Segoe UI;
+
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.thumb2 img {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		width: 100%;
+		padding: 11px;
+		box-sizing: padding-box;
+		max-height: 30%;
+
+		transition-property: all;
+		transition-timing-function: ease;
+		transition-duration: 0.3s;
+	}
+
+	.thumb2:hover img {
+		opacity: 0;
+	}
+
+	.thumb2.facebook {
+		background-image: url("thumbnails/facebook.login.png");
+		background-repeat: no-repeat;
+	}
+
+	.thumb2.amazon {
+		background-position: 0px 30px;
+	}
+	.thumb2.facebook img {
+		background-color: #3664A2;
+	}
+	.thumb2.amazon img {
+		background-color: #000;
+	}
+	.thumb2.github img {
+		background-color: #FFF;
+	}
