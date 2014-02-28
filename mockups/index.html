@@ -46,14 +46,16 @@
 
 		<p>If no logo exists, don't display one. If no preview image exists but there is a logo, show the logo full tile. If neither exist, show the thumbnail.</p>
 
+		<p><em>Note: There is a slight change from Boriss' spec here, where the title bar background has an opacity of 95%. This is borrowed from the current new tab page.</em></p>
+
 		<div class="thumb2 facebook">
 			<img src="facebook.svg">
-			<div class="thumb1-title">Facebook</div>
+			<div class="thumb2-title">Facebook</div>
 		</div>
 
 		<div class="thumb2 facebook" style="background-image: url('salient/facebook.val.jpg');">
 			<img src="facebook.svg">
-			<div class="thumb1-title">Valentin Tsatskin</div>
+			<div class="thumb2-title">Valentin Tsatskin</div>
 		</div>
 
 		<div class="thumb2 amazon" style="background-image: url('salient/amazon.duckie.jpg');">
@@ -69,6 +71,35 @@
 		<div class="thumb2 github" style="background-image: url('thumbnails/github.openbadges.png');">
 			<img src="github.svg">
 			<div class="thumb2-title">mozilla/openbadges</div>
+		</div>
+
+		<h3>Alternative Styles</h3>
+
+		<p>Working off the previous section, here we're basing the tile's colours off of the logo's colours.</p>
+
+		<div class="thumb3 facebook" style="background-image: url('thumbnails/facebook.login.png');">
+			<img src="facebook.svg">
+			<div class="thumb3-title">Facebook</div>
+		</div>
+
+		<div class="thumb3 facebook" style="background-image: url('salient/facebook.val.jpg');">
+			<img src="facebook.svg">
+			<div class="thumb3-title">Valentin Tsatskin</div>
+		</div>
+
+		<div class="thumb3 amazon" style="background-image: url('salient/amazon.duckie.jpg');">
+			<img src="amazon.white.svg">
+			<div class="thumb3-title">Amazon.com: Canada Goose - Audubon Plush Bird (Authentic Bird Sound): Everything Else</div>
+		</div>
+
+		<div class="thumb3 github" style="background-image: url('salient/github.mozilla.png');">
+			<img src="github.svg">
+			<div class="thumb3-title">Mozilla</div>
+		</div>
+
+		<div class="thumb3 github" style="background-image: url('thumbnails/github.openbadges.png');">
+			<img src="github.svg">
+			<div class="thumb3-title">mozilla/openbadges</div>
 		</div>
 	</body>
 </html>
