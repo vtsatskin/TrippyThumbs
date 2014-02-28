@@ -7,6 +7,8 @@ An experimental approach to website thumbnails.
 Mockups
 -------
 
+- [Demo page](mockups/index.html)
+
 
 Sample websites
 ---------------

@@ -1,0 +1,55 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+/* From Boriss' mockups */
+.thumb1 {
+	box-sizing: padding-box;
+	width: 180px;
+	height: calc(150px + 21px);
+	padding: 23px;
+	text-align: center;
+	background: white;
+	position: relative;
+	border: 1px solid #e0e1e3;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+	.thumb1-title {
+		box-sizing: padding-box;
+		height: 21px;
+		text-align: left;
+		padding: 0 5px;
+
+		background: #eceded;
+		color: #525c66;
+		border-top: 1px solid #e0e1e3;
+
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		font-size: 13px;
+		font-family: Segoe UI;
+	}
+
+	.thumb1 img {
+		max-width: 134px;
+		max-height: 104px;
+	}
+
+.flower {
+	fill: #525c66;
+}
+
+.facebook {
+	background: #3664A2;
+}
+
+.wordpress {
+	background: #138fbe;
+}
+	.wordpress img path {
+		fill: white;
+	}
