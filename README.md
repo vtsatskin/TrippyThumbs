@@ -27,7 +27,7 @@ Identification Technqiues
 These are certain aspects we can use from websites to generate identifiablity cues
 
 - Logo
-- Prominant picture on website
+- Salient images on website
 - Website dominant colours
 - Title
 - URL
@@ -42,6 +42,12 @@ These are the current issues with the existing thumbnails
 - Redirect got captured as a page
 - Duplicates: https and http version
 - "Authorization Required" on sites with http auth such as [Mana](http://mana.mozilla.org)
+
+Current Code
+------------
+
+- [Foreground service](http://mxr.mozilla.org/mozilla-central/source/toolkit/components/thumbnails/PageThumbs.jsm)
+- [Background service](http://mxr.mozilla.org/mozilla-central/source/toolkit/components/thumbnails/BackgroundPageThumbs.jsm)
 
 Inspiration
 -----------
@@ -77,5 +83,7 @@ Existing Research
 -----------------
 
 - [How People Recognize Previously Seen WWW Pages from Titles, URLs and Thumbnails][recognize] by Kaasten, S., Greenberg, S. and Edwards, C. (2002)
+- [Visual Snippets: Summarizing Web Pages for Search and Revisitation][summarizingWebPages]
 
 [recognize]:http://grouplab.cpsc.ucalgary.ca/Publications/2002-ThumbnailStudy.BHCI
+[summarizingWebPages]:http://research.microsoft.com/en-us/um/people/cutrell/visual-snippets-chi2009-submission.pdf
