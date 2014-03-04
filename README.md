@@ -83,6 +83,13 @@ Inspiration
 - [Caption Hover Effects](http://tympanus.net/Tutorials/CaptionHoverEffects/index3.html)
 - [Shape Hover Effect with SVG](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index2.html)
 
+Misc. Ideas
+-----------
+
+### Custom Tiles ###
+
+The tiles could be extendable via our existing addon infrastructure similiar to how Opera has [Speed Dial extensions](http://dev.opera.com/extension-docs/tut_sd_extensions.html).
+
 Existing Research
 -----------------
 
