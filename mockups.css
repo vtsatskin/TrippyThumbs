@@ -474,3 +474,164 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+
+.thumb6 {
+	box-sizing: padding-box;
+	width: 180px;
+	height: calc(150px + 21px);
+	padding: 23px;
+	text-align: center;
+	background: white;
+	position: relative;
+	border: 1px solid #e0e1e3;
+	display: inline-block;
+	margin-right: 10px;
+	cursor: pointer;
+
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+	.thumb6-title {
+		box-sizing: padding-box;
+		height: 21px;
+		text-align: left;
+		padding: 0 5px;
+
+		color: #525c66;
+		border-top: 1px solid #e0e1e3;
+
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		font-size: 13px;
+		font-family: "Segoe UI", "Lucida Grande", sans-serif;
+
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+
+		background-color: rgba(248, 249, 251, 0.9);
+	}
+
+	.thumb6 img {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		width: 100%;
+		padding: 11px;
+		box-sizing: padding-box;
+		max-height: 30%;
+
+		transition-property: all;
+		transition-timing-function: ease;
+		transition-duration: 0.3s;
+	}
+
+	.thumb6:hover img {
+		opacity: 0;
+	}
+
+	.thumb6.facebook .thumb6-title {
+		border-color: rgba(224, 225, 227, 0.2);
+		background-color: rgba(54, 100, 162, 0.8);
+		color: #FFF;
+	}
+	.thumb6.facebook img {
+		background-color: #3664A2;
+		background: linear-gradient(to bottom, #3664A2, rgba(54, 100, 162, .8) 30%, rgba(54, 100, 162, 0));
+	}
+
+	.thumb6.amazon {
+		background-position: 0px 30px;
+	}
+	.thumb6.amazon .thumb6-title {
+		border-color: rgba(224, 225, 227, 0.2);
+		background-color: rgba(0, 0, 0, 0.8);
+		color: #FFF;
+	}
+	.thumb6.amazon img {
+		background-color: #000;
+		background: linear-gradient(to bottom, #000, rgba(0, 0, 0, .8) 30%, rgba(0, 0, 0, 0));
+	}
+
+	.thumb6.github .thumb6-title {
+		background-color: rgba(255, 255, 255, 0.8);
+		color: #000;
+	}
+	.thumb6.github img {
+		background: linear-gradient(to bottom, #FFF, rgba(255, 255, 255, .8) 30%, rgba(255, 255, 255, 0));
+	}
+
+.thumb7 {
+	box-sizing: padding-box;
+	width: 180px;
+	height: calc(150px + 21px);
+	text-align: center;
+	position: relative;
+	border: 1px solid #e0e1e3;
+	display: inline-block;
+	margin-right: 10px;
+	cursor: pointer;
+	overflow: hidden;
+	background-size: cover;
+}
+
+	.thumb7-title {
+		box-sizing: padding-box;
+		height: 21px;
+		text-align: left;
+		padding: 0 5px;
+
+		background: #eceded;
+		color: #525c66;
+		border-top: 1px solid #e0e1e3;
+
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		font-size: 13px;
+		font-family: "Segoe UI", "Lucida Grande", sans-serif;
+	}
+
+	.thumb7 img {
+		max-width: 134px;
+		max-height: 104px;
+	}
+
+	.thumb7:hover, .thumb7:hover .thumb7-title {
+		border-color: #BBB;
+	}
+
+	.thumb7-logo-container {
+		width: 180px;
+		height: 170px;
+		padding: 23px;
+		box-sizing: padding-box;
+
+		transition-property: all;
+		transition-duration: .5s;
+		transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+
+		/* Delay mouseout */
+		transition-delay: 0.2s;
+	}
+
+	.thumb7-logo-container:hover {
+		transition-delay: 0s;
+	}
+
+	.facebook .thumb7-logo-container {
+		background-color: #3664A2;
+	}
+
+	.wordpress .thumb7-logo-container {
+		background-color: #138FBE;
+	}
+
+	.thumb7:hover .thumb7-logo-container {
+		margin-top: -170px;
+	}
