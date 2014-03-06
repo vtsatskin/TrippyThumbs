@@ -1,0 +1,52 @@
+body {
+	background: #F2F2F2;
+	padding: 32px;
+	text-align: center;
+}
+
+.thumb {
+	position: relative;
+	display: inline-block;
+	margin-right: 10px;
+	cursor: pointer;
+	overflow: hidden;
+
+}
+	.logo-container {
+		width: 243px;
+		height: 150px;
+		border: 1px solid #dee0e1;
+		background-size: cover !important;
+	}
+
+	.logo-container:hover .logo {
+		margin-top: -150px;
+	}
+
+	.logo {
+		width: 243px;
+		height: 150px;
+		background-repeat: no-repeat !important;
+		background-position: center !important;
+
+		transition-property: all;
+		transition-duration: .5s;
+		transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+
+		/* Delay mouseout */
+		transition-delay: 0.2s;
+	}
+
+	.logo:hover {
+		transition-delay: 0s;
+	}
+
+	.thumb-title {
+		height: 21px;
+		text-align: left;
+		padding-top: 5px;
+
+		color: #525c66;
+		font-size: 13px;
+		font-family: "Lucida Grande", "Segoe UI", sans-serif;
+	}
