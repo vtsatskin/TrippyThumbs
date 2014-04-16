@@ -50,3 +50,15 @@ After setup the user is shown weather information. Clicking the tile will lead
 the user to an appropriate weather page.
 
 ![](tiles/weather.yr.png)
+
+## Gismeteo Weather
+
+Gismeteo skips the setup sets required in yr.no and automatically finds the
+user's current location.
+
+![](tiles/gismeteo.png)
+
+Editing the tile as in section "Editing Tiles" brings up the following page.
+
+![](tiles/edit.smart.tile.png)
+![](tiles/gismeteo.edit.png)
