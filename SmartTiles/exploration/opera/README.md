@@ -21,3 +21,11 @@ There is also duplication of results in the search results. One for just the
 page and the other for the smart tile.
 
 ![](tiles/gmail.dups.png)
+
+## Stumbleupon
+
+Cycles through stumbleupon links as well as advertises to the user they should
+sign up.
+
+![](tiles/stumble.gif)
+
