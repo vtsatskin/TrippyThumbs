@@ -1,5 +1,16 @@
 # Smart Tiles Discovery
 
+## Editing Tiles
+
+Editing a normal website tile. This brings up a popover which allows editing of
+the url and name.
+![](tiles/edit.website.png)
+
+Editing a smart tile. This option opens a new page which the extension must
+build. The options can sometimes be left out and will be greyed out if not
+available.
+![](tiles/edit.smart.tile.png)
+
 ## TED.com
 
 Shows and links to a single ted talk in tile.
