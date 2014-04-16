@@ -29,3 +29,13 @@ sign up.
 
 ![](tiles/stumble.gif)
 
+## yr.no Weather
+
+Links user to [external page](yr.setup.instructions.pdf) for setup of tile.
+
+![](tiles/weather.yr.setup.png)
+
+After setup the user is shown weather information. Clicking the tile will lead
+the user to an appropriate weather page.
+
+![](tiles/weather.yr.png)
