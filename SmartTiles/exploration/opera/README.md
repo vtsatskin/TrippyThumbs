@@ -85,5 +85,15 @@ numbers.
 
 See [Speed Dial for Facebook][facebook-tile] for more info.
 
+## Bobble game
+
+A tamagotchi style critter that lives in your speed dial! You interact with it
+through the preferences page.
+
+![](tiles/bobble.png)
+
+See [Bobble game][bobble-tile] for more info.
+
 [facebook-tile]:https://addons.opera.com/en/extensions/details/speed-dial-for-facebook/
 [youtube-tile]:https://addons.opera.com/en/extensions/details/youtube-speed-dial-extension/
+[bobble-tile]:https://addons.opera.com/en/extensions/details/bobble-game/
