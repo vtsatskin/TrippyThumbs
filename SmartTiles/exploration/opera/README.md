@@ -62,3 +62,15 @@ Editing the tile as in section "Editing Tiles" brings up the following page.
 
 ![](tiles/edit.smart.tile.png)
 ![](tiles/gismeteo.edit.png)
+
+## YouTube
+
+YouTube works similar to the stumbleupon tile, where it's a carrousel of videos.
+However, the styling is slightly different from Stumbleupon's.
+
+![](tiles/youtube.png)
+
+The options for the tile.
+
+![](tiles/youtube.edit.png)
+
