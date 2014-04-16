@@ -74,3 +74,13 @@ The options for the tile.
 
 ![](tiles/youtube.edit.png)
 
+## Facebook
+
+A carrousel of photos from your Facebook feed. Also includes your notification
+numbers.
+
+![](tiles/facebook.png)
+
+See [Speed Dial for Facebook][facebook-tile] for more info.
+
+[facebook-tile]:https://addons.opera.com/en/extensions/details/speed-dial-for-facebook/
