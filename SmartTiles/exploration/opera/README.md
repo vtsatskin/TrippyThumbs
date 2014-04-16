@@ -1,5 +1,22 @@
 # Smart Tiles Discovery
 
+## Discussion
+
+### Strengths
+- Easy way to discover new tiles through suggested results including smart tiles
+and previous history.
+- Carrousel is an effective way of showing new content without user interaction.
+- Using existing cookies for website (such as gmail, youtube) is a painless way
+of setup.
+
+### Weaknesses
+- Visibility for editing normal and smart tiles is lacking. I personally did not
+know the option existed until 5 tiles in.
+- No uniform visual styles for tiles
+- Some apps have lengthly/complicated setup procedure. Tiles should "just work"
+with minimal involvement from user.
+- No uniform style for preferences pages.
+
 ## Editing Tiles
 
 Editing a normal website tile. This brings up a popover which allows editing of
