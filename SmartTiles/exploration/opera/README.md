@@ -74,6 +74,8 @@ The options for the tile.
 
 ![](tiles/youtube.edit.png)
 
+See [Speed Dial for YouTube][youtube-tile] for more info.
+
 ## Facebook
 
 A carrousel of photos from your Facebook feed. Also includes your notification
@@ -84,3 +86,4 @@ numbers.
 See [Speed Dial for Facebook][facebook-tile] for more info.
 
 [facebook-tile]:https://addons.opera.com/en/extensions/details/speed-dial-for-facebook/
+[youtube-tile]:https://addons.opera.com/en/extensions/details/youtube-speed-dial-extension/
