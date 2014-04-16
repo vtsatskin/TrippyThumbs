@@ -11,13 +11,15 @@ build. The options can sometimes be left out and will be greyed out if not
 available.
 ![](tiles/edit.smart.tile.png)
 
-## TED.com
+## Examples
+
+### TED.com
 
 Shows and links to a single ted talk in tile.
 
 ![](tiles/ted.png)
 
-## Gmail
+### Gmail
 
 Shows an unread email count from the currently logged in user.
 
@@ -33,7 +35,7 @@ page and the other for the smart tile.
 
 ![](tiles/gmail.dups.png)
 
-## Stumbleupon
+### Stumbleupon
 
 Cycles through stumbleupon links as well as advertises to the user they should
 sign up.
@@ -51,7 +53,7 @@ the user to an appropriate weather page.
 
 ![](tiles/weather.yr.png)
 
-## Gismeteo Weather
+### Gismeteo Weather
 
 Gismeteo skips the setup sets required in yr.no and automatically finds the
 user's current location.
@@ -63,7 +65,7 @@ Editing the tile as in section "Editing Tiles" brings up the following page.
 ![](tiles/edit.smart.tile.png)
 ![](tiles/gismeteo.edit.png)
 
-## YouTube
+### YouTube
 
 YouTube works similar to the stumbleupon tile, where it's a carrousel of videos.
 However, the styling is slightly different from Stumbleupon's.
@@ -76,7 +78,7 @@ The options for the tile.
 
 See [Speed Dial for YouTube][youtube-tile] for more info.
 
-## Facebook
+### Facebook
 
 A carrousel of photos from your Facebook feed. Also includes your notification
 numbers.
@@ -85,7 +87,7 @@ numbers.
 
 See [Speed Dial for Facebook][facebook-tile] for more info.
 
-## Bobble game
+### Bobble game
 
 A tamagotchi style critter that lives in your speed dial! You interact with it
 through the preferences page.
